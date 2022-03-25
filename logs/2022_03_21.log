@@ -1,0 +1,1402 @@
+[2022-03-21 10:40:41,841]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 10:40:42,574]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 10:40:43,765]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 10:40:46,937]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 10:40:50,658]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 10:40:53,867]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 10:40:56,950]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 10:41:04,031]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 10:43:36,941]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 10:43:37,646]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 10:43:38,728]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 10:43:41,846]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 10:43:44,937]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 10:43:48,059]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 10:43:51,171]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 10:43:58,299]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 10:44:04,812]-INFO: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[2022-03-21 10:44:06,867]-INFO: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[2022-03-21 10:44:08,933]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:44:13,540]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:44:15,605]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:44:18,181]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:44:24,233]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:44:26,275]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 10:44:27,126]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:44:27,931]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 10:44:30,663]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:44:36,717]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:44:38,772]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 10:44:39,357]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 10:44:40,403]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:44:41,977]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 10:44:42,429]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 10:44:45,408]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:44:51,446]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:44:53,488]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 10:44:54,048]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 10:44:55,101]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:44:56,686]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 10:44:57,172]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 10:45:00,076]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:45:04,685]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 10:45:08,740]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:45:10,809]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 10:45:11,365]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 10:45:14,413]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:46:58,594]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 10:46:59,403]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 10:47:00,679]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 10:48:24,675]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 10:48:25,544]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 10:48:26,650]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 10:55:04,580]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 10:55:05,354]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 10:55:06,470]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 10:55:09,631]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 10:55:12,716]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 10:55:15,835]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 10:55:18,947]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 10:55:26,072]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 10:55:32,347]-INFO: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[2022-03-21 10:55:34,405]-INFO: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[2022-03-21 10:55:36,458]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 10:58:43,100]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 10:58:43,858]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 10:58:44,979]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 10:58:48,150]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 10:58:51,232]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 10:58:54,349]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 10:58:57,435]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 10:59:03,895]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 10:59:10,138]-INFO: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[2022-03-21 10:59:12,192]-INFO: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[2022-03-21 10:59:14,246]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:02:36,032]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 11:02:36,705]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 11:02:37,807]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 11:02:40,924]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 11:02:44,008]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 11:02:47,127]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 11:02:50,230]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 11:02:56,516]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 11:03:02,736]-INFO: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[2022-03-21 11:03:04,780]-INFO: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[2022-03-21 11:03:06,839]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:03:11,414]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:03:13,468]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 11:06:49,492]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 11:06:50,203]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 11:06:51,321]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 11:06:54,486]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 11:06:57,638]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 11:07:00,901]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 11:07:03,987]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 11:07:10,349]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 11:07:16,671]-INFO: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[2022-03-21 11:07:18,733]-INFO: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[2022-03-21 11:07:20,779]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:07:25,359]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:07:27,422]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:07:30,006]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:07:36,057]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:07:38,110]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:07:38,670]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:07:39,753]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:07:42,666]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:07:48,704]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:07:50,752]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:07:51,347]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:07:52,415]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:07:53,929]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:07:54,407]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:07:57,419]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:08:03,472]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:08:05,535]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:08:06,091]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:08:07,159]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:08:08,713]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:08:09,257]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:08:12,143]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:08:16,190]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:08:20,237]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:08:22,310]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:08:22,878]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:08:25,953]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:18:11,680]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 11:18:12,389]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 11:18:13,506]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 11:18:16,587]-INFO: find__ 点击"点击我的tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 11:18:19,666]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 11:18:22,788]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 11:19:38,137]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 11:19:38,866]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 11:19:39,971]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 11:19:43,072]-INFO: find__ 点击"点击我的tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 11:19:46,158]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 11:19:49,265]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 11:19:52,374]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 11:19:59,554]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 11:20:05,949]-INFO: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[2022-03-21 11:20:07,997]-INFO: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[2022-03-21 11:20:10,087]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:20:14,664]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:20:16,708]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:20:19,287]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:20:25,351]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:20:27,411]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:20:28,015]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:20:29,062]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:20:32,572]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:20:38,649]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:20:40,698]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:20:41,257]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:20:42,337]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:20:43,961]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:20:44,441]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:20:47,430]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:20:53,491]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:20:55,549]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:20:56,109]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:20:57,166]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:20:58,651]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:20:59,135]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:21:02,100]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:21:06,146]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:21:10,211]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:21:12,264]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:21:12,827]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:21:15,881]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:25:17,967]-INFO: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[2022-03-21 11:25:18,792]-INFO: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[2022-03-21 11:25:20,078]-INFO: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[2022-03-21 11:25:23,271]-INFO: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[2022-03-21 11:25:26,382]-INFO: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[2022-03-21 11:25:29,688]-INFO: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[2022-03-21 11:25:32,780]-INFO: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[2022-03-21 11:25:39,467]-INFO: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[2022-03-21 11:25:46,593]-INFO: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[2022-03-21 11:25:48,648]-INFO: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[2022-03-21 11:25:50,739]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:25:55,358]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:25:57,422]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:26:00,011]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:26:06,077]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:26:08,126]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:26:08,856]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:26:09,941]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:26:14,168]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:26:20,206]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:26:22,241]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:26:22,790]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:26:23,880]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:26:25,579]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:26:26,126]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:26:29,248]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:26:35,310]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:26:37,353]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:26:37,911]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:26:38,973]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:27:20,350]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:27:20,863]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:27:23,790]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:27:27,844]-INFO: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[2022-03-21 11:27:31,909]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[2022-03-21 11:27:33,962]-INFO: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[2022-03-21 11:27:34,525]-INFO: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[2022-03-21 11:27:37,564]-INFO: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 11:32:08,136-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 11:32:08,888-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 11:32:09,993-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 11:32:13,108-logger.py->__console line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 11:32:16,215-logger.py->__console line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 11:32:19,335-logger.py->__console line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 11:32:22,433-logger.py->__console line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 11:32:28,919-logger.py->__console line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 11:32:35,261-logger.py->__console line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 11:32:37,315-logger.py->__console line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 11:32:39,366-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 11:32:43,950-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:32:46,000-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 11:32:48,571-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:32:54,623-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:32:56,663-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 11:32:57,215-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 11:32:58,281-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 11:33:01,624-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:33:07,681-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:33:09,732-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 11:33:10,300-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 11:33:11,366-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 11:33:12,861-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 11:33:13,496-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 11:33:16,261-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:33:22,306-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:33:24,344-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 11:33:24,896-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 11:33:25,956-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 11:34:07,063-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 11:34:07,607-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 11:34:10,476-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:34:14,517-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 11:34:18,559-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 11:34:20,608-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 11:34:21,174-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 11:34:24,221-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:04:36,666-logger.py->__console line:46: find__ 点击"签到",定位方法: text-->签到 line31
+[INFO]--2022-03-21 12:06:33,981-logger.py->__console line:46: find__ 点击"签到",定位方法: text-->签到 line31
+[INFO]--2022-03-21 12:08:17,353-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 12:08:18,201-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 12:08:19,350-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 12:10:23,771-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 12:10:24,472-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 12:10:25,575-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 12:10:28,716-logger.py->__console line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 12:10:31,813-logger.py->__console line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 12:10:34,936-logger.py->__console line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 12:10:38,031-logger.py->__console line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 12:10:44,519-logger.py->__console line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 12:10:51,641-logger.py->__console line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 12:10:53,698-logger.py->__console line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 12:10:55,769-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:11:00,382-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:11:03,049-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:11:05,659-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:11:11,714-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:11:13,780-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:11:14,397-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:11:15,463-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:11:19,248-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:11:25,308-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:11:27,363-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:11:27,936-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:11:28,983-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:11:30,575-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:11:31,205-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:11:34,101-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:11:40,142-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:11:42,207-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:11:42,766-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:11:43,808-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:12:24,713-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:12:25,256-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:12:28,331-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:12:32,376-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:12:36,439-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:12:38,495-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:12:39,051-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:12:42,109-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:15:07,309-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 12:15:08,194-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 12:15:09,612-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 12:16:15,770-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 12:16:16,483-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 12:16:17,679-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 12:16:20,853-logger.py->__console line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 12:16:23,978-logger.py->__console line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 12:16:27,149-logger.py->__console line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 12:16:30,326-logger.py->__console line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 12:16:36,701-logger.py->__console line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 12:16:43,803-logger.py->__console line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 12:16:45,852-logger.py->__console line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 12:16:47,913-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:16:52,506-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:16:54,555-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:16:57,145-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:17:03,194-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:17:05,238-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:17:05,814-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:17:06,888-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:17:09,881-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:17:15,923-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:17:17,971-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:17:18,554-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:17:19,624-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:17:21,229-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:17:21,757-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:17:24,718-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:17:30,756-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:17:32,814-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:17:33,382-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:17:34,441-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:18:15,440-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:18:15,996-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:18:18,883-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:18:22,929-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:18:26,971-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:18:29,246-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:18:29,793-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:18:32,864-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:18:34,923-logger.py->__console line:46: find__ 点击"签到",定位方法: text-->签到 line31
+[INFO]--2022-03-21 12:18:39,353-logger.py->__console line:46: find__ 点击"查看今日运势",定位方法: text-->查看今日运势 line31
+[INFO]--2022-03-21 12:21:16,028-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 12:21:16,791-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 12:21:18,975-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 12:21:21,071-logger.py->__console line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 12:21:24,178-logger.py->__console line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 12:21:27,358-logger.py->__console line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 12:21:30,452-logger.py->__console line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 12:21:37,052-logger.py->__console line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 12:21:43,317-logger.py->__console line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 12:21:45,376-logger.py->__console line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 12:21:47,459-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:21:52,054-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:21:54,103-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:21:56,710-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:22:02,752-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:22:04,813-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:22:05,419-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:22:06,504-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:22:09,827-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:22:15,894-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:22:17,944-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:22:18,517-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:22:19,583-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:22:21,205-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:22:21,716-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:22:24,677-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:22:30,760-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:22:32,819-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:22:33,383-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:22:34,438-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:23:15,133-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:23:15,734-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:23:18,748-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:23:22,787-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:23:26,830-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:23:28,890-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:23:29,472-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:23:32,608-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:24:27,897-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 12:24:28,692-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 12:24:29,980-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 12:24:35,922-logger.py->__console line:46: find__ 点击"签到",定位方法: text-->签到 line31
+[INFO]--2022-03-21 12:27:54,701-logger.py->__console line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 12:27:55,357-logger.py->__console line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 12:27:56,765-logger.py->__console line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 12:28:00,137-logger.py->__console line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 12:28:03,822-logger.py->__console line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 12:28:07,621-logger.py->__console line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 12:28:10,730-logger.py->__console line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 12:28:18,859-logger.py->__console line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 12:28:25,419-logger.py->__console line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 12:28:27,480-logger.py->__console line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 12:28:29,541-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:28:34,215-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:28:36,252-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:28:38,820-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:28:44,861-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:28:46,900-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:28:47,549-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:28:48,600-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:28:53,428-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:28:59,501-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:29:01,551-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:29:02,141-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:29:03,281-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:29:05,022-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:29:05,703-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:29:08,890-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:29:14,957-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:29:17,002-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:29:17,563-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:29:18,610-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:29:59,770-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:30:00,380-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:30:03,266-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:30:07,327-logger.py->__console line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 12:30:11,403-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:30:13,454-logger.py->__console line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 12:30:14,011-logger.py->__console line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 12:30:17,056-logger.py->__console line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 12:30:19,163-logger.py->__console line:46: find__ 点击"签到",定位方法: text-->签到 line31
+[INFO]--2022-03-21 14:13:05,265-logger.py->__console logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 14:13:06,056-logger.py->__console logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 14:13:07,266-logger.py->__console logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 14:13:10,497-logger.py->__console logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 14:13:13,638-logger.py->__console logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 14:13:17,030-logger.py->__console logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 14:13:20,138-logger.py->__console logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 14:13:26,774-logger.py->__console logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 14:13:33,061-logger.py->__console logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 14:13:35,112-logger.py->__console logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 14:13:37,170-logger.py->__console logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 14:13:41,806-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:13:43,857-logger.py->__console logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 14:13:46,444-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:13:52,509-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:13:54,560-logger.py->__console logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 14:13:55,155-logger.py->__console logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 14:13:56,233-logger.py->__console logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 14:13:59,327-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:14:05,382-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:14:07,455-logger.py->__console logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 14:14:08,032-logger.py->__console logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 14:14:09,067-logger.py->__console logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 14:14:10,670-logger.py->__console logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 14:14:11,276-logger.py->__console logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 14:14:14,165-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:14:20,247-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:14:22,300-logger.py->__console logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 14:14:22,857-logger.py->__console logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 14:14:23,906-logger.py->__console logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 14:15:04,891-logger.py->__console logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 14:15:05,474-logger.py->__console logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 14:15:08,347-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:15:12,391-logger.py->__console logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 14:15:16,436-logger.py->__console logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 14:15:18,486-logger.py->__console logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 14:15:19,032-logger.py->__console logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 14:15:22,083-logger.py->__console logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 14:23:28,050-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31  F:\工作\自动化\Android-NuanLiu-master\Android-NuanLiu-master\common\base.py  <frame object at 0x0000018B596F6048>
+[INFO]--2022-03-21 14:23:28,327-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31  F:\工作\自动化\Android-NuanLiu-master\Android-NuanLiu-master\common\base.py  <frame object at 0x0000018B596F6048>
+[INFO]--2022-03-21 14:23:30,029-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31  F:\工作\自动化\Android-NuanLiu-master\Android-NuanLiu-master\common\base.py  <frame object at 0x0000018B596F6048>
+[INFO]--2022-03-21 14:23:53,091-logger.py->__console->logger line:46: find__ 点击"签到",定位方法: text-->签到 line31  F:\工作\自动化\Android-NuanLiu-master\Android-NuanLiu-master\common\base.py  <frame object at 0x0000018B596F6A48>
+[INFO]--2022-03-21 14:26:24,949-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31 ['            self.log.info("点击\\"%s\\"" % locator[\'name\']+",定位方法: %s-->%s" % (locator[\'by\'], locator[\'value\']))\n']
+[INFO]--2022-03-21 14:26:25,806-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31 ['            self.log.info("点击\\"%s\\"" % locator[\'name\']+",定位方法: %s-->%s" % (locator[\'by\'], locator[\'value\']))\n']
+[INFO]--2022-03-21 14:26:27,626-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31 ['            self.log.info("点击\\"%s\\"" % locator[\'name\']+",定位方法: %s-->%s" % (locator[\'by\'], locator[\'value\']))\n']
+[INFO]--2022-03-21 16:03:21,618-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:03:22,340-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:03:23,455-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 16:03:26,540-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 16:03:29,627-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 16:03:32,795-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 16:03:35,914-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 16:03:42,312-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 16:03:49,405-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 16:03:51,458-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 16:03:53,521-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:03:58,122-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:04:00,188-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:04:03,233-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:04:09,291-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:04:11,343-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:04:11,944-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:04:13,019-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:04:15,814-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:04:21,875-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:04:23,933-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:04:24,506-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:04:25,598-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:04:27,062-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:04:27,547-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:04:30,461-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:04:36,516-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:04:38,566-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:04:39,133-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:04:40,167-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:05:20,830-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:05:21,341-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:05:24,236-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:05:28,297-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:05:32,348-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:05:34,421-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:05:34,995-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:05:38,042-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:05:40,164-logger.py->__console->logger line:46: find__ 点击"签到",定位方法: text-->签到 line31
+[INFO]--2022-03-21 16:07:29,486-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:07:30,138-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:07:31,237-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 16:07:34,405-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 16:07:37,496-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 16:07:40,698-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 16:07:43,812-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 16:07:50,282-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 16:07:56,550-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 16:07:58,595-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 16:08:00,654-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:08:05,261-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:08:07,322-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:08:09,937-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:08:15,985-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:08:18,040-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:08:18,606-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:08:19,682-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:08:22,646-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:08:28,691-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:08:30,733-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:08:31,325-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:08:32,369-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:08:33,841-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:08:34,330-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:08:38,063-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:08:44,122-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:08:46,173-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:08:46,719-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:08:47,790-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:09:28,902-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:09:29,355-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:09:32,297-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:09:36,337-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 16:09:40,400-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:09:42,478-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 16:09:43,025-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 16:09:46,108-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 16:09:48,193-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 16:09:53,840-logger.py->__console->logger line:46: find__ 点击"查看今日运势",定位方法: text-->查看今日运势 line31
+[INFO]--2022-03-21 16:20:02,201-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 16:21:13,814-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 16:22:22,053-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:22:22,829-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:22:23,978-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 16:22:27,188-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 16:23:36,126-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:23:36,878-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:23:38,031-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 16:23:41,163-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 16:23:44,242-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 16:23:45,294-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 16:24:51,629-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:24:52,467-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:24:53,756-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 16:25:48,976-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:25:49,882-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:25:51,051-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 16:26:45,603-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:26:46,470-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:26:49,791-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 16:26:53,991-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 16:26:55,045-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 16:26:58,094-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 16:27:01,167-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 16:27:04,218-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 16:27:05,335-logger.py->__console->logger line:46: find__ 点击" 点击出生日期弹框",定位方法: text-->确定 line31
+[INFO]--2022-03-21 16:27:10,440-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 16:27:11,510-logger.py->__console->logger line:46: find__ 点击" 点击关闭需求弹框",定位方法: text-->以后再选 line31
+[INFO]--2022-03-21 16:27:16,576-logger.py->__console->logger line:46: find__ 点击"点击我的性别",定位方法: text-->我的性别 line31
+[INFO]--2022-03-21 16:27:17,674-logger.py->__console->logger line:46: find__ 点击" 点击性别男",定位方法: text-->男 line31
+[INFO]--2022-03-21 16:27:23,722-logger.py->__console->logger line:46: find__ 点击"点击工作状况",定位方法: text-->工作状况 line31
+[INFO]--2022-03-21 16:27:24,824-logger.py->__console->logger line:46: find__ 点击" 点击工作状况",定位方法: text-->待业 line31
+[INFO]--2022-03-21 16:27:30,877-logger.py->__console->logger line:46: find__ 点击"点击婚姻状况",定位方法: text-->婚姻状况 line31
+[INFO]--2022-03-21 16:27:31,968-logger.py->__console->logger line:46: find__ 点击" 点击婚姻状况",定位方法: text-->单身 line31
+[INFO]--2022-03-21 16:27:36,965-logger.py->__console->logger line:46: find__ 点击"点击手机号码",定位方法: text-->手机号码 line31
+[ERROR]--2022-03-21 16:27:45,021-logger.py->__console->logger line:52: finds__ 正在点击" 点击手机号码跳转界面",定位方法: text-->风水罗盘 line63
+[INFO]--2022-03-21 16:27:48,332-logger.py->__console->logger line:46: find__ 点击"点击修改密码",定位方法: text-->修改密码 line31
+[INFO]--2022-03-21 16:27:53,411-logger.py->__console->logger line:46: find__ 点击" 点击退出登录",定位方法: text-->退出登录 line31
+[INFO]--2022-03-21 16:54:41,263-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 16:54:42,089-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 16:54:45,362-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 16:54:51,819-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（0） line31
+[ERROR]--2022-03-21 16:54:54,950-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 16:54:59,020-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[ERROR]--2022-03-21 16:55:02,113-logger.py->__console->logger line:52: finds__ 正在点击"点击风水记录",定位方法: text-->风水记录 line63
+[INFO]--2022-03-21 16:55:05,419-logger.py->__console->logger line:46: find__ 点击"点击宅主分析",定位方法: text-->宅主分析 line31
+[ERROR]--2022-03-21 16:55:08,526-logger.py->__console->logger line:52: finds__ 正在点击"点击宅主分析",定位方法: text-->宅主分析 line63
+[INFO]--2022-03-21 16:55:12,591-logger.py->__console->logger line:46: find__ 点击"点击服务消息",定位方法: text-->服务消息 line31
+[ERROR]--2022-03-21 16:55:15,667-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->消息列表 line63
+[INFO]--2022-03-21 16:55:19,762-logger.py->__console->logger line:46: find__ 点击"点击祈福明灯",定位方法: text-->祈福明灯 line31
+[ERROR]--2022-03-21 16:55:23,857-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->我的明灯 line63
+[INFO]--2022-03-21 16:55:27,086-logger.py->__console->logger line:46: find__ 点击"点击藏宝阁",定位方法: text-->藏宝阁 line31
+[ERROR]--2022-03-21 16:55:31,157-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->我的圣品 line63
+[INFO]--2022-03-21 16:55:35,254-logger.py->__console->logger line:46: find__ 点击"点击设置",定位方法: text-->设置 line31
+[ERROR]--2022-03-21 16:55:39,342-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->应用设置 line63
+[INFO]--2022-03-21 17:06:34,494-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:06:35,314-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:06:38,525-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:06:45,274-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（0） line31
+[ERROR]--2022-03-21 17:06:48,385-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 17:06:52,515-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[ERROR]--2022-03-21 17:06:55,665-logger.py->__console->logger line:52: finds__ 正在点击"点击风水记录",定位方法: text-->风水记录 line63
+[INFO]--2022-03-21 17:06:59,845-logger.py->__console->logger line:46: find__ 点击"点击宅主分析",定位方法: text-->宅主分析 line31
+[ERROR]--2022-03-21 17:07:02,970-logger.py->__console->logger line:52: finds__ 正在点击"点击宅主分析",定位方法: text-->宅主分析 line63
+[INFO]--2022-03-21 17:07:07,036-logger.py->__console->logger line:46: find__ 点击"点击服务消息",定位方法: text-->服务消息 line31
+[ERROR]--2022-03-21 17:07:10,109-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->消息列表 line63
+[INFO]--2022-03-21 17:07:13,307-logger.py->__console->logger line:46: find__ 点击"点击祈福明灯",定位方法: text-->祈福明灯 line31
+[ERROR]--2022-03-21 17:07:17,376-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->我的明灯 line63
+[INFO]--2022-03-21 17:07:21,492-logger.py->__console->logger line:46: find__ 点击"点击藏宝阁",定位方法: text-->藏宝阁 line31
+[ERROR]--2022-03-21 17:07:25,580-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->我的圣品 line63
+[INFO]--2022-03-21 17:07:29,718-logger.py->__console->logger line:46: find__ 点击"点击设置",定位方法: text-->设置 line31
+[ERROR]--2022-03-21 17:07:33,824-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->应用设置 line63
+[INFO]--2022-03-21 17:08:22,682-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:08:23,398-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:08:24,528-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 17:08:27,757-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:08:30,842-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 17:08:33,957-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 17:08:37,031-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 17:08:39,112-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 17:09:29,137-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:09:29,860-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:09:30,983-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 17:09:34,102-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:09:37,185-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 17:09:40,332-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 17:09:43,441-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 17:09:50,174-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 17:09:57,297-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 17:09:59,341-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 17:10:01,419-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:10:05,994-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:10:08,045-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:10:10,656-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:10:16,733-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:10:18,779-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:10:19,389-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:10:20,451-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:10:24,282-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:10:30,362-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:10:32,405-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:10:32,974-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:10:34,041-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:10:35,717-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:10:36,250-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:10:39,205-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:10:45,300-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:10:47,384-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:10:47,956-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:10:48,991-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:11:29,819-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:11:30,347-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:11:33,475-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:11:37,539-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:11:41,581-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:11:43,638-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:11:44,188-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:11:47,253-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:11:49,335-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 17:14:19,036-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:14:19,796-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:16:10,360-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:16:11,057-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:16:12,150-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 17:16:15,297-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:16:18,437-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 17:16:21,562-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 17:16:24,658-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 17:16:31,744-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 17:16:37,958-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 17:16:39,997-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 17:16:42,066-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:16:46,712-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:16:48,765-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:16:51,373-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:16:57,424-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:16:59,476-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:17:00,070-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:17:01,236-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:17:04,318-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:17:10,410-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:17:12,458-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:17:13,016-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:17:14,063-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:17:15,680-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:17:16,146-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:17:19,114-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:17:25,150-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:17:27,192-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:17:27,738-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:17:28,796-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:18:09,667-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:18:10,154-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:18:13,043-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:18:17,080-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:18:21,126-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:18:23,193-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:18:23,741-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:18:26,821-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:18:28,888-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 17:19:12,690-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:19:13,541-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:19:16,754-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:19:23,365-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（0） line31
+[ERROR]--2022-03-21 17:19:26,546-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 17:19:30,614-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[ERROR]--2022-03-21 17:19:33,704-logger.py->__console->logger line:52: finds__ 正在点击"点击风水记录",定位方法: text-->风水记录 line63
+[INFO]--2022-03-21 17:19:38,232-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:20:20,613-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:20:21,512-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:20:24,761-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:20:29,026-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 17:20:30,074-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 17:20:32,992-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 17:20:36,053-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 17:20:39,100-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 17:20:40,159-logger.py->__console->logger line:46: find__ 点击" 点击出生日期弹框",定位方法: text-->确定 line31
+[INFO]--2022-03-21 17:20:45,195-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 17:20:49,873-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:24:13,621-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:24:14,495-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:24:15,628-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 17:24:18,815-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:24:21,895-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 17:24:25,046-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 17:24:28,156-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 17:24:35,051-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 17:24:41,522-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 17:24:43,560-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 17:24:45,629-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:24:50,253-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:24:52,302-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:24:54,909-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:25:00,948-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:25:02,979-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:25:03,542-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:25:04,606-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:25:08,520-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:25:14,618-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:25:16,904-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:25:17,503-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:25:18,579-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:25:20,226-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:25:20,716-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:25:23,669-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:25:29,720-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:25:31,806-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:25:32,368-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:25:33,415-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:26:14,479-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:26:15,047-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:26:17,965-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:26:22,008-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:26:26,043-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:26:28,092-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:26:28,640-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:26:31,695-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:26:33,779-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 17:27:18,314-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:27:19,231-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:27:22,545-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:27:29,185-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（0） line31
+[ERROR]--2022-03-21 17:27:32,340-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 17:27:36,408-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[ERROR]--2022-03-21 17:27:39,481-logger.py->__console->logger line:52: finds__ 正在点击"点击风水记录",定位方法: text-->风水记录 line63
+[INFO]--2022-03-21 17:27:44,143-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:28:25,768-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:28:26,568-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:28:30,194-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:28:34,262-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 17:28:35,319-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 17:28:38,254-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 17:28:41,320-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 17:28:44,374-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 17:28:45,442-logger.py->__console->logger line:46: find__ 点击" 点击出生日期弹框",定位方法: text-->确定 line31
+[INFO]--2022-03-21 17:28:50,548-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 17:28:54,155-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:34:05,196-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:34:05,963-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:34:07,079-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 17:34:10,181-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:34:13,258-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 17:34:16,366-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 17:34:19,486-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 17:34:26,649-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 17:34:33,028-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 17:34:35,078-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 17:34:37,124-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:34:41,713-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:34:43,762-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:34:46,340-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:34:52,396-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:34:54,440-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:34:55,007-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:34:56,080-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:34:59,230-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:35:05,331-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:35:07,385-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:35:07,963-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:35:09,033-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:35:10,654-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:35:11,093-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:35:14,241-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:35:20,295-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:35:22,337-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:35:22,901-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:35:23,938-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:36:05,346-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:36:05,899-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:36:08,984-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:36:13,022-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:36:17,077-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:36:19,136-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:36:19,691-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:36:22,745-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:36:24,811-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 17:37:06,282-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:37:07,100-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:37:10,360-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:37:16,881-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（0） line31
+[ERROR]--2022-03-21 17:37:20,000-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 17:37:24,047-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[ERROR]--2022-03-21 17:37:27,137-logger.py->__console->logger line:52: finds__ 正在点击"点击风水记录",定位方法: text-->风水记录 line63
+[INFO]--2022-03-21 17:37:32,827-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:38:15,678-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:38:16,394-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:38:20,424-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:38:24,084-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 17:38:25,149-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 17:38:28,042-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 17:38:31,115-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 17:38:34,152-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 17:38:36,199-logger.py->__console->logger line:46: find__ 点击" 点击出生日期弹框",定位方法: text-->确定 line31
+[INFO]--2022-03-21 17:38:42,255-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 17:38:45,901-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:43:18,736-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:43:19,416-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:43:20,499-logger.py->__console->logger line:46: find__ 点击"关闭家居风水广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogClose line31
+[INFO]--2022-03-21 17:43:23,656-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:43:26,723-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 17:43:29,867-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 17:43:32,989-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 17:43:39,455-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 17:43:45,679-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 17:43:47,718-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 17:43:49,775-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:43:54,367-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:43:56,409-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:43:59,000-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:44:05,038-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:44:07,077-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:44:07,626-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:44:08,683-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:44:11,365-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:44:17,398-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:44:19,444-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:44:20,015-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:44:21,083-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:44:22,676-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:44:23,117-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:44:26,175-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:44:32,225-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:44:34,265-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:44:34,809-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:44:35,850-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:45:16,905-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:45:17,406-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:45:20,283-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:45:24,334-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 17:45:28,394-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:45:30,468-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 17:45:31,023-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 17:45:34,083-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 17:45:36,142-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 17:46:16,582-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:46:17,367-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:46:20,559-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:46:27,214-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（0） line31
+[ERROR]--2022-03-21 17:46:30,333-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 17:46:33,532-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[ERROR]--2022-03-21 17:46:37,621-logger.py->__console->logger line:52: finds__ 正在点击"点击风水记录",定位方法: text-->风水记录 line63
+[INFO]--2022-03-21 17:46:41,884-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:47:22,068-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:47:22,876-logger.py->__console->logger line:46: find__ 点击"关闭抽签广告",定位方法: id-->com.mmc.fengshui.pass:id/vDialogRightClose line31
+[INFO]--2022-03-21 17:47:26,019-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 17:47:30,270-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 17:47:31,325-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 17:47:34,136-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 17:47:37,218-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 17:47:40,269-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 17:47:42,327-logger.py->__console->logger line:46: find__ 点击" 点击出生日期弹框",定位方法: text-->确定 line31
+[INFO]--2022-03-21 17:47:49,360-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 17:47:53,051-logger.py->__console->logger line:46: find__ 点击"关闭广告弹框",定位方法: id-->com.mmc.fengshui.pass:id/vDialogLeftClose line31
+[INFO]--2022-03-21 17:58:53,280-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: id-->android.widget.ImageView line31
+[INFO]--2022-03-21 17:59:18,134-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: id-->android.widget.ImageView line31
+[INFO]--2022-03-21 17:59:45,193-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:00:12,007-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:01:25,675-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:01:28,889-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:01:41,540-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:01:47,150-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:01:53,024-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:02:45,164-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:02:53,385-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:02:56,499-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:02:59,568-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:03:03,685-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:03:09,176-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:03:14,576-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:03:53,127-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:04:00,942-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:04:04,082-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:04:07,189-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:04:10,281-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:04:16,517-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 18:04:22,846-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 18:04:26,317-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:04:31,662-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:04:36,910-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:12:57,251-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:13:04,339-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:13:07,462-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:13:10,570-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:13:13,665-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:13:20,055-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 18:13:26,378-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 18:13:28,434-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 18:13:30,504-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:13:35,117-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:13:37,157-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:13:39,741-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:13:45,789-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:13:47,837-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:13:48,403-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:13:49,489-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:13:52,375-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:13:58,421-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:14:00,467-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:14:01,506-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:14:02,565-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:14:43,594-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:14:44,018-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:14:46,946-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:14:53,003-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:14:55,043-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:14:55,594-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:14:56,665-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:15:37,483-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:15:37,960-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:15:40,904-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:15:44,959-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:15:49,021-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:15:51,081-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:15:51,632-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:15:54,690-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:15:56,759-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:17:23,244-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:17:31,152-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:17:34,255-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:17:37,406-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:17:40,532-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:17:47,639-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 18:17:53,897-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 18:17:55,953-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 18:17:58,028-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:18:02,628-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:18:04,676-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:18:07,259-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:18:13,298-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:18:15,342-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:18:15,924-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:18:16,998-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:18:19,899-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:18:25,932-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:18:27,964-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:18:28,526-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:18:29,578-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:19:10,459-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:19:10,887-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:19:13,798-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:19:19,843-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:19:21,898-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:19:22,463-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:19:23,510-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:20:04,645-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:20:05,131-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:20:08,035-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:20:12,087-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:20:16,137-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:20:18,185-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:20:18,743-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:20:21,840-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:20:23,964-logger.py->__console->logger line:46: find__ 点击"签到",定位方法: text-->签到 line31
+[INFO]--2022-03-21 18:20:28,237-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:21:19,696-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:21:27,913-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:21:34,618-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:22:20,496-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:22:28,472-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:22:31,601-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 18:22:32,644-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 18:22:35,023-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 18:22:38,096-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 18:22:41,153-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 18:22:45,219-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:24:19,722-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:25:15,415-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:25:23,233-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:25:26,333-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:25:29,905-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:25:35,320-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:25:40,664-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:26:21,256-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:26:29,132-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:26:34,739-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 18:26:48,353-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:27:30,621-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:27:38,984-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:27:42,138-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 18:27:43,202-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 18:28:28,556-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:28:36,423-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:28:39,567-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:28:42,703-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:28:45,810-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:28:52,907-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 18:28:59,226-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 18:29:01,289-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 18:29:03,359-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:29:07,931-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:29:09,976-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:29:12,573-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:29:18,619-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:29:20,675-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:29:21,230-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:29:22,314-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:29:25,171-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:29:31,226-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:29:33,278-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:29:33,854-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:29:34,901-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:30:15,850-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:30:16,489-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:30:19,187-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:30:25,242-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:30:27,314-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:30:27,882-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:30:28,932-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:31:10,495-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:31:10,976-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:31:13,867-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:31:17,910-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:31:21,949-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:31:23,989-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:31:24,537-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:31:27,600-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:31:29,662-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:32:12,491-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:32:20,487-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:32:25,960-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[ERROR]--2022-03-21 18:32:29,083-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 18:32:33,149-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[INFO]--2022-03-21 18:32:37,271-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:33:22,012-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:33:29,932-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:33:33,113-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 18:33:34,168-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 18:33:36,537-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 18:33:39,610-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 18:33:42,657-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 18:33:47,595-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:35:21,984-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:35:29,924-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:35:33,069-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:35:36,241-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:35:39,354-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:35:43,527-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:36:36,298-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:36:44,105-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:36:47,235-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:36:50,707-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:36:53,821-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:37:00,255-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 18:37:06,565-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 18:37:08,620-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 18:37:10,684-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:37:15,299-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:37:17,340-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:37:19,932-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:37:25,970-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:37:28,031-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:37:28,626-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:37:29,692-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:37:33,052-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:37:39,119-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:37:41,184-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:37:41,772-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:37:42,836-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:38:23,852-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:38:24,301-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:38:27,380-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:38:33,443-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:38:35,500-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:38:36,062-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:38:37,104-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:39:18,518-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:39:19,015-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:39:21,897-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:39:25,936-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:39:29,988-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:39:32,049-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:39:32,606-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:39:35,675-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:39:37,746-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:40:37,405-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:41:28,759-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:41:36,776-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:41:42,562-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[ERROR]--2022-03-21 18:41:45,716-logger.py->__console->logger line:52: finds__ 正在点击"跳转优惠券",定位方法: text-->优惠券 line63
+[INFO]--2022-03-21 18:41:49,801-logger.py->__console->logger line:46: find__ 点击"点击风水记录",定位方法: text-->风水记录 line31
+[ERROR]--2022-03-21 18:41:53,929-logger.py->__console->logger line:52: finds__ 正在点击"点击风水记录",定位方法: text-->风水记录 line63
+[INFO]--2022-03-21 18:41:59,328-logger.py->__console->logger line:46: find__ 点击"点击宅主分析",定位方法: text-->宅主分析 line31
+[ERROR]--2022-03-21 18:42:03,422-logger.py->__console->logger line:52: finds__ 正在点击"点击宅主分析",定位方法: text-->宅主分析 line63
+[INFO]--2022-03-21 18:42:08,501-logger.py->__console->logger line:46: find__ 点击"点击服务消息",定位方法: text-->服务消息 line31
+[ERROR]--2022-03-21 18:42:12,581-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->消息列表 line63
+[INFO]--2022-03-21 18:42:16,979-logger.py->__console->logger line:46: find__ 点击"点击祈福明灯",定位方法: text-->祈福明灯 line31
+[ERROR]--2022-03-21 18:42:21,056-logger.py->__console->logger line:52: finds__ 正在点击"跳转消息列表",定位方法: text-->我的明灯 line63
+[INFO]--2022-03-21 18:42:26,424-logger.py->__console->logger line:46: find__ 点击"点击藏宝阁",定位方法: text-->藏宝阁 line31
+[INFO]--2022-03-21 18:43:45,987-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:43:54,040-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:43:57,190-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 18:43:58,274-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 18:44:00,446-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 18:44:04,001-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 18:44:07,048-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 18:44:09,119-logger.py->__console->logger line:46: find__ 点击" 点击出生日期弹框",定位方法: text-->确定 line31
+[INFO]--2022-03-21 18:44:16,160-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 18:44:18,235-logger.py->__console->logger line:46: find__ 点击" 点击关闭需求弹框",定位方法: text-->以后再选 line31
+[INFO]--2022-03-21 18:44:24,306-logger.py->__console->logger line:46: find__ 点击"点击我的性别",定位方法: text-->我的性别 line31
+[INFO]--2022-03-21 18:44:25,379-logger.py->__console->logger line:46: find__ 点击" 点击性别男",定位方法: text-->男 line31
+[INFO]--2022-03-21 18:44:32,014-logger.py->__console->logger line:46: find__ 点击"点击工作状况",定位方法: text-->工作状况 line31
+[INFO]--2022-03-21 18:44:33,088-logger.py->__console->logger line:46: find__ 点击" 点击工作状况",定位方法: text-->待业 line31
+[INFO]--2022-03-21 18:44:39,950-logger.py->__console->logger line:46: find__ 点击"点击婚姻状况",定位方法: text-->婚姻状况 line31
+[INFO]--2022-03-21 18:44:41,035-logger.py->__console->logger line:46: find__ 点击" 点击婚姻状况",定位方法: text-->单身 line31
+[INFO]--2022-03-21 18:44:46,914-logger.py->__console->logger line:46: find__ 点击"点击手机号码",定位方法: text-->手机号码 line31
+[ERROR]--2022-03-21 18:44:54,972-logger.py->__console->logger line:52: finds__ 正在点击" 点击手机号码跳转界面",定位方法: text-->风水罗盘 line63
+[INFO]--2022-03-21 18:44:58,194-logger.py->__console->logger line:46: find__ 点击"点击修改密码",定位方法: text-->修改密码 line31
+[INFO]--2022-03-21 18:45:03,270-logger.py->__console->logger line:46: find__ 点击" 点击退出登录",定位方法: text-->退出登录 line31
+[INFO]--2022-03-21 18:45:51,570-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:45:59,527-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:46:02,651-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:46:05,719-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:46:07,867-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:46:48,438-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:46:56,378-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:46:59,478-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:47:03,023-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:47:06,130-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:47:12,563-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 18:47:18,811-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 18:47:20,869-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 18:47:22,929-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:47:27,528-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:47:29,584-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:47:32,180-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:47:38,240-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:47:40,298-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:47:40,872-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:47:41,929-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:47:46,173-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:47:52,233-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:47:54,299-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:47:54,887-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:47:55,987-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:48:37,163-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:48:37,808-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:48:40,666-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:48:46,708-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:48:48,747-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:48:49,320-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:48:50,403-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:49:31,238-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:49:31,761-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:49:34,637-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:49:38,697-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:49:42,770-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:49:44,823-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:49:45,388-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:49:48,421-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:49:50,538-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 18:50:39,449-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:50:47,717-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:50:53,521-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 18:51:34,983-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:51:43,698-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:51:46,852-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 18:51:47,904-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 18:51:50,576-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 18:51:53,657-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 18:51:56,744-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 18:51:58,805-logger.py->__console->logger line:46: find__ 点击" 点击出生日期弹框",定位方法: text-->确定 line31
+[INFO]--2022-03-21 18:52:05,853-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 18:52:07,909-logger.py->__console->logger line:46: find__ 点击" 点击关闭需求弹框",定位方法: text-->以后再选 line31
+[INFO]--2022-03-21 18:52:13,957-logger.py->__console->logger line:46: find__ 点击"点击我的性别",定位方法: text-->我的性别 line31
+[INFO]--2022-03-21 18:52:15,020-logger.py->__console->logger line:46: find__ 点击" 点击性别男",定位方法: text-->男 line31
+[INFO]--2022-03-21 18:52:21,906-logger.py->__console->logger line:46: find__ 点击"点击工作状况",定位方法: text-->工作状况 line31
+[INFO]--2022-03-21 18:52:22,998-logger.py->__console->logger line:46: find__ 点击" 点击工作状况",定位方法: text-->待业 line31
+[INFO]--2022-03-21 18:52:29,826-logger.py->__console->logger line:46: find__ 点击"点击婚姻状况",定位方法: text-->婚姻状况 line31
+[INFO]--2022-03-21 18:52:30,905-logger.py->__console->logger line:46: find__ 点击" 点击婚姻状况",定位方法: text-->单身 line31
+[INFO]--2022-03-21 18:52:36,684-logger.py->__console->logger line:46: find__ 点击"点击手机号码",定位方法: text-->手机号码 line31
+[ERROR]--2022-03-21 18:52:44,757-logger.py->__console->logger line:52: finds__ 正在点击" 点击手机号码跳转界面",定位方法: text-->风水罗盘 line63
+[INFO]--2022-03-21 18:52:48,570-logger.py->__console->logger line:46: find__ 点击"点击修改密码",定位方法: text-->修改密码 line31
+[INFO]--2022-03-21 18:52:53,719-logger.py->__console->logger line:46: find__ 点击" 点击退出登录",定位方法: text-->退出登录 line31
+[INFO]--2022-03-21 18:54:55,066-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:55:02,988-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:55:11,552-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 18:55:35,653-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:55:42,835-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:55:51,550-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 18:56:52,389-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 18:57:00,361-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 18:57:04,088-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 18:57:07,324-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 18:57:10,415-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 18:57:17,123-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 18:57:23,339-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 18:57:25,380-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 18:57:27,443-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:57:32,022-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:57:34,069-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:57:36,714-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:57:42,758-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:57:44,800-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:57:45,372-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:57:46,437-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:57:50,584-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:57:56,629-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:57:58,677-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:57:59,258-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:58:00,333-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:58:41,834-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:58:42,291-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:58:45,437-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:58:51,486-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:58:53,525-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:58:54,071-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:58:55,120-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:59:35,988-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:59:36,531-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:59:39,402-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:59:43,445-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 18:59:47,485-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:59:49,673-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 18:59:50,232-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 18:59:53,278-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 18:59:55,355-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 19:00:40,741-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:00:49,358-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 19:00:57,936-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 19:01:01,724-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:01:47,945-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:01:55,518-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 19:01:58,687-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 19:01:59,783-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 19:02:02,183-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 19:02:05,241-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 19:02:08,297-logger.py->__console->logger line:46: find__ 点击"点击我的生日",定位方法: text-->我的生日 line31
+[INFO]--2022-03-21 19:02:13,035-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:03:43,101-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:03:51,892-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 19:03:55,098-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 19:03:58,520-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 19:04:01,617-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 19:04:08,407-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 19:04:14,872-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 19:04:16,913-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 19:04:18,976-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:04:23,643-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:04:25,683-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:04:28,290-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:04:34,344-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:04:36,385-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:04:36,960-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:04:38,021-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:04:42,413-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:04:48,472-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:04:50,521-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:04:51,092-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:04:52,153-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:05:32,952-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:05:33,513-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:05:36,511-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:05:42,551-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:05:44,595-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:05:45,156-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:05:46,203-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:06:27,041-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:06:27,636-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:06:30,941-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:06:35,004-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:06:39,056-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:06:41,106-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:06:41,646-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:06:44,749-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:06:46,836-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 19:07:39,411-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:07:46,677-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 19:10:25,471-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:11:09,171-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:11:16,937-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 19:11:20,054-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 19:11:26,407-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 19:11:29,891-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 19:11:36,336-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 19:11:43,408-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 19:11:45,455-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 19:11:47,532-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:11:52,148-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:11:54,198-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:11:56,788-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:12:02,839-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:12:04,896-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:12:05,445-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:12:06,532-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:12:09,271-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:12:15,330-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:12:17,381-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:12:17,970-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:12:19,005-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:12:59,926-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:13:00,345-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:13:03,443-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:13:09,545-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:13:11,595-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:13:12,161-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:13:13,220-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:13:14,761-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:13:15,224-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:13:18,338-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:13:22,391-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:13:26,440-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:13:28,498-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:13:29,043-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:13:32,201-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:13:34,264-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 19:14:16,545-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:14:24,408-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 19:14:40,369-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:15:17,843-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:15:25,724-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 19:15:28,844-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 19:15:29,893-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 19:15:32,160-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 19:15:35,240-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 19:15:39,289-logger.py->__console->logger line:46: find__ 点击"点击我的需求",定位方法: text-->我的需求 line31
+[INFO]--2022-03-21 19:15:41,354-logger.py->__console->logger line:46: find__ 点击" 点击关闭需求弹框",定位方法: text-->以后再选 line31
+[INFO]--2022-03-21 19:15:47,409-logger.py->__console->logger line:46: find__ 点击"点击我的性别",定位方法: text-->我的性别 line31
+[INFO]--2022-03-21 19:15:50,978-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:21:01,874-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:21:09,618-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 19:21:12,707-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[INFO]--2022-03-21 19:21:15,809-logger.py->__console->logger line:46: find__ 点击"点击本机号码登录",定位方法: text-->本机号码一键登录 line31
+[INFO]--2022-03-21 19:21:18,922-logger.py->__console->logger line:46: find__ 点击"点击服务协议",定位方法: text-->《服务协议》 line31
+[INFO]--2022-03-21 19:21:25,182-logger.py->__console->logger line:46: find__ 点击"点击隐私政策",定位方法: text-->《隐私政策》 line31
+[INFO]--2022-03-21 19:21:31,581-logger.py->__console->logger line:46: find__ 点击"点击其他方式登录",定位方法: text-->其他方式登录 line31
+[INFO]--2022-03-21 19:21:33,636-logger.py->__console->logger line:46: find__ 点击"点击密码登录",定位方法: text-->账号密码登录 line31
+[INFO]--2022-03-21 19:21:35,701-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:21:40,310-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:21:42,363-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:21:44,955-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:21:50,994-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:21:53,041-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:21:53,598-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:21:54,647-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:21:57,287-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:22:03,331-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:22:05,379-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:22:05,970-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:22:07,017-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:22:48,073-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:22:48,687-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:22:51,395-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:22:57,444-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:22:59,495-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:23:00,037-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:23:01,544-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:23:03,068-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:23:03,547-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:23:06,487-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:23:10,539-logger.py->__console->logger line:46: find__ 点击"点击勾选用户协议",定位方法: id-->com.mmc.fengshui.pass:id/linghit_quick_checkbox line31
+[INFO]--2022-03-21 19:23:14,577-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:23:16,616-logger.py->__console->logger line:46: find__ 点击"账号输入",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_phone_number_et line31
+[INFO]--2022-03-21 19:23:17,176-logger.py->__console->logger line:46: find__ 点击"输入密码",定位方法: id-->com.mmc.fengshui.pass:id/linghit_login_password_et line31
+[INFO]--2022-03-21 19:23:20,238-logger.py->__console->logger line:46: find__ 点击"点击登录",定位方法: text-->登录 line31
+[INFO]--2022-03-21 19:23:22,286-logger.py->__console->logger line:46: find__ 点击"查看我的优惠券",定位方法: text-->查看我的优惠券 line31
+[INFO]--2022-03-21 19:24:51,357-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:24:59,328-logger.py->__console->logger line:46: find__ 点击"点击优惠券",定位方法: text-->优惠券（1） line31
+[INFO]--2022-03-21 19:25:10,018-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:25:48,705-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
+[INFO]--2022-03-21 19:25:57,708-logger.py->__console->logger line:46: find__ 点击"点击课程tab",定位方法: id-->com.mmc.fengshui.pass:id/vBCNavigationTab5 line31
+[INFO]--2022-03-21 19:26:03,967-logger.py->__console->logger line:46: find__ 点击"点击头像",定位方法: id-->com.mmc.fengshui.pass:id/ivUserAvatar line31
+[ERROR]--2022-03-21 19:26:07,011-logger.py->__console->logger line:52: finds__ 正在点击" 我的资料",定位方法: text-->我的资料 line63
+[INFO]--2022-03-21 19:26:09,103-logger.py->__console->logger line:46: find__ 点击"点击我的昵称",定位方法: text-->我的昵称 line31
+[INFO]--2022-03-21 19:26:14,171-logger.py->__console->logger line:46: find__ 点击"点击修改昵称取消",定位方法: text-->取消 line31
+[INFO]--2022-03-21 19:26:19,047-logger.py->__console->logger line:46: find__ 点击"关闭罗盘广告",定位方法: class-->android.widget.ImageView line31
